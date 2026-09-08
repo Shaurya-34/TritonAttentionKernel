@@ -14,4 +14,4 @@ do. That's named honestly as the next step, not implemented here.
 Open `TritonAttentionKernel.ipynb` in Colab, or any Jupyter environment with
 a CUDA GPU, and run the cells top to bottom.
 
-Full writeup: [Programming an attention kernel in Triton](https://sslog.dpdns.org/programming-an-attention-kernel-in-triton.html)
+Full writeup: [Programming an attention kernel in Triton](https://shauryasharma.tech/programming-an-attention-kernel-in-triton.html)
